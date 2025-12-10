@@ -1,0 +1,382 @@
+[
+  {
+    "market_id": "516711",
+    "question": "Fed emergency rate cut in 2025?",
+    "slug": "fed-emergency-rate-cut-in-2025",
+    "end_date": "2025-12-31T12:00:00Z",
+    "condition_id": "0xcddb4f52babca280f8e5fc4b9146f2520f0bfb88e134ff9ac8d52ea674185d79",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.009,
+        "probability": 0.009
+      },
+      {
+        "outcome": "No",
+        "price": 0.991,
+        "probability": 0.991
+      }
+    ]
+  },
+  {
+    "market_id": "516712",
+    "question": "Tether insolvent in 2025?",
+    "slug": "tether-insolvent-in-2025",
+    "end_date": "2025-12-31T12:00:00Z",
+    "condition_id": "0x1bbdc459d73e6972f5ba1f687d739fde70a9774f4875611699fb00a9eb28f090",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.006,
+        "probability": 0.006
+      },
+      {
+        "outcome": "No",
+        "price": 0.994,
+        "probability": 0.994
+      }
+    ]
+  },
+  {
+    "market_id": "516713",
+    "question": "USDT depeg in 2025?",
+    "slug": "usdt-depeg-in-2025",
+    "end_date": "2025-12-31T12:00:00Z",
+    "condition_id": "0x416316490efec1038ce09ec0184f82f1f7921876ee0594a30c783635ea6983d0",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.0055,
+        "probability": 0.0055
+      },
+      {
+        "outcome": "No",
+        "price": 0.9945,
+        "probability": 0.9945
+      }
+    ]
+  },
+  {
+    "market_id": "516717",
+    "question": "Nuclear weapon detonation in 2025?",
+    "slug": "nuclear-weapon-detonation-in-2025",
+    "end_date": "2025-12-31T12:00:00Z",
+    "condition_id": "0x9fcb9901d142b5046467b4ea329508bdb19274eb1fd0fc833ee1916edd11cb73",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.0135,
+        "probability": 0.0135
+      },
+      {
+        "outcome": "No",
+        "price": 0.9865,
+        "probability": 0.9865
+      }
+    ]
+  },
+  {
+    "market_id": "516719",
+    "question": "Russia x Ukraine ceasefire in 2025?",
+    "slug": "russia-x-ukraine-ceasefire-in-2025",
+    "end_date": "2025-12-31T12:00:00Z",
+    "condition_id": "0x8ee2f1640386310eb5e7ffa596ba9335f2d324e303d21b0dfea6998874445791",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.0335,
+        "probability": 0.0335
+      },
+      {
+        "outcome": "No",
+        "price": 0.9665,
+        "probability": 0.9665
+      }
+    ]
+  },
+  {
+    "market_id": "516725",
+    "question": "Will 2 Fed rate cuts happen in 2025?",
+    "slug": "will-2-fed-rate-cuts-happen-in-2025",
+    "end_date": "2025-12-10T12:00:00Z",
+    "condition_id": "0x05af636e0989accb08334a74f69e5368e0aa28fe498fd16a3ca991e6dc5ae2cc",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.0005,
+        "probability": 0.0005
+      },
+      {
+        "outcome": "No",
+        "price": 0.9995,
+        "probability": 0.9995
+      }
+    ]
+  },
+  {
+    "market_id": "516726",
+    "question": "Will 3 Fed rate cuts happen in 2025?",
+    "slug": "will-3-fed-rate-cuts-happen-in-2025",
+    "end_date": "2025-12-10T12:00:00Z",
+    "condition_id": "0x6df2f2ca434b5bacaef33d6b24edf42845199f4f794e66580de2d2c880a25275",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.9995,
+        "probability": 0.9995
+      },
+      {
+        "outcome": "No",
+        "price": 0.0005,
+        "probability": 0.0005
+      }
+    ]
+  },
+  {
+    "market_id": "516727",
+    "question": "Will 4 Fed rate cuts happen in 2025?",
+    "slug": "will-4-fed-rate-cuts-happen-in-2025",
+    "end_date": "2025-12-10T12:00:00Z",
+    "condition_id": "0xc2846f35e85eb09a094edbd4e93e345d3c682dc0436615adc27122222fccbd81",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.0005,
+        "probability": 0.0005
+      },
+      {
+        "outcome": "No",
+        "price": 0.9995,
+        "probability": 0.9995
+      }
+    ]
+  },
+  {
+    "market_id": "516728",
+    "question": "Will 5 Fed rate cuts happen in 2025?",
+    "slug": "will-5-fed-rate-cuts-happen-in-2025",
+    "end_date": "2025-12-10T12:00:00Z",
+    "condition_id": "0x6ee22365b6602d928aa7136f549cc0d718bb16b044a6d15191041b84b5f1f43d",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.0005,
+        "probability": 0.0005
+      },
+      {
+        "outcome": "No",
+        "price": 0.9995,
+        "probability": 0.9995
+      }
+    ]
+  },
+  {
+    "market_id": "516729",
+    "question": "Will 8+ Fed rate cuts happen in 2025?",
+    "slug": "will-8plus-fed-rate-cuts-happen-in-2025",
+    "end_date": "2025-12-10T12:00:00Z",
+    "condition_id": "0x12b6268efb832fe64bb746b9f50a51245b761d6b170e172b3cd81a7c4f39432b",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.0005,
+        "probability": 0.0005
+      },
+      {
+        "outcome": "No",
+        "price": 0.9995,
+        "probability": 0.9995
+      }
+    ]
+  },
+  {
+    "market_id": "516730",
+    "question": "Will 7 Fed rate cuts happen in 2025?",
+    "slug": "will-7-fed-rate-cuts-happen-in-2025",
+    "end_date": "2025-12-10T12:00:00Z",
+    "condition_id": "0xf4d03ce9ce65ea06654f23e26dead828005511d65bb650cd5a9dc77891406d12",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.0005,
+        "probability": 0.0005
+      },
+      {
+        "outcome": "No",
+        "price": 0.9995,
+        "probability": 0.9995
+      }
+    ]
+  },
+  {
+    "market_id": "516731",
+    "question": "Will 6 Fed rate cuts happen in 2025?",
+    "slug": "will-6-fed-rate-cuts-happen-in-2025",
+    "end_date": "2025-12-10T12:00:00Z",
+    "condition_id": "0x37100ed3560699c48d90a027e65da10a04e395785b598289163e3bbfdaca99e6",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.0005,
+        "probability": 0.0005
+      },
+      {
+        "outcome": "No",
+        "price": 0.9995,
+        "probability": 0.9995
+      }
+    ]
+  },
+  {
+    "market_id": "516861",
+    "question": "Will Bitcoin reach $1,000,000 by December 31, 2025?",
+    "slug": "will-bitcoin-reach-1000000-by-december-31-2025",
+    "end_date": "2025-12-31T12:00:00Z",
+    "condition_id": "0xd8b9ff369452daebce1ac8cb6a29d6817903e85168356c72812317f38e317613",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.003,
+        "probability": 0.003
+      },
+      {
+        "outcome": "No",
+        "price": 0.997,
+        "probability": 0.997
+      }
+    ]
+  },
+  {
+    "market_id": "516862",
+    "question": "Will Bitcoin reach $250,000 by December 31, 2025?",
+    "slug": "will-bitcoin-reach-250000-by-december-31-2025",
+    "end_date": "2025-12-31T12:00:00Z",
+    "condition_id": "0xac2be3a5471b343d43b9f0d3f141611b91feb8c66aed8e286cd3d2540714aaba",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.0025,
+        "probability": 0.0025
+      },
+      {
+        "outcome": "No",
+        "price": 0.9975,
+        "probability": 0.9975
+      }
+    ]
+  },
+  {
+    "market_id": "516863",
+    "question": "Will Bitcoin reach $200,000 by December 31, 2025?",
+    "slug": "will-bitcoin-reach-200000-by-december-31-2025",
+    "end_date": "2025-12-31T12:00:00Z",
+    "condition_id": "0x4e2887e913cd6e091c9b07b5e4013b24f372453efa6f11a0b0c5f65371729cf4",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.0025,
+        "probability": 0.0025
+      },
+      {
+        "outcome": "No",
+        "price": 0.9975,
+        "probability": 0.9975
+      }
+    ]
+  },
+  {
+    "market_id": "516864",
+    "question": "Will Bitcoin reach $150,000 by December 31, 2025?",
+    "slug": "will-bitcoin-reach-150000-by-december-31-2025-188",
+    "end_date": "2025-12-31T12:00:00Z",
+    "condition_id": "0x9aa6086535a4b3145e9f7378dd58a7a8c30c4b15bd4fe17eb6990817f5cd3cd9",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.0055,
+        "probability": 0.0055
+      },
+      {
+        "outcome": "No",
+        "price": 0.9945,
+        "probability": 0.9945
+      }
+    ]
+  },
+  {
+    "market_id": "516865",
+    "question": "Will Bitcoin reach $130,000 by December 31, 2025?",
+    "slug": "will-bitcoin-reach-130000-by-december-31-2025-911-832",
+    "end_date": "2025-12-31T12:00:00Z",
+    "condition_id": "0xe84b1fdc087f4153ebf15cfc07f065dd5a66f3caf370b4547ea8e02100be95be",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.0145,
+        "probability": 0.0145
+      },
+      {
+        "outcome": "No",
+        "price": 0.9855,
+        "probability": 0.9855
+      }
+    ]
+  },
+  {
+    "market_id": "516871",
+    "question": "Will Bitcoin dip to $70,000 by December 31, 2025?",
+    "slug": "will-bitcoin-dip-to-70000-by-december-31-2025-193-726-878-775-359-968-264-727-793-714-257-318-569-865-147",
+    "end_date": "2025-12-31T12:00:00Z",
+    "condition_id": "0x0aeb566c973d193ef7f77d2532ba6bffe4f76d5f6b7c5422ceaa966536b7ef90",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.045,
+        "probability": 0.045
+      },
+      {
+        "outcome": "No",
+        "price": 0.955,
+        "probability": 0.955
+      }
+    ]
+  },
+  {
+    "market_id": "516872",
+    "question": "Will Bitcoin dip to $50,000 by December 31, 2025?",
+    "slug": "will-bitcoin-dip-to-50000-by-december-31-2025-391-715-682-587-692-994-786-318-267-857-157-791-189-328-186",
+    "end_date": "2025-12-31T12:00:00Z",
+    "condition_id": "0x5e8e585d855c4288c3805064e74fc7ea1dab47dc0e9b42a0dbd9ca5f49c997f9",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.0065,
+        "probability": 0.0065
+      },
+      {
+        "outcome": "No",
+        "price": 0.9935,
+        "probability": 0.9935
+      }
+    ]
+  },
+  {
+    "market_id": "516873",
+    "question": "Will Bitcoin dip to $20,000 by December 31, 2025?",
+    "slug": "will-bitcoin-dip-to-20000-by-december-31-2025-942-621-278-695-321-896-769-417-957-733-354-361-233-126-159",
+    "end_date": "2025-12-31T12:00:00Z",
+    "condition_id": "0x86f01fcc4fa9ca9871189d8f4a1121bb31784c889d78f82e2f6de32381e3d894",
+    "outcomes": [
+      {
+        "outcome": "Yes",
+        "price": 0.0025,
+        "probability": 0.0025
+      },
+      {
+        "outcome": "No",
+        "price": 0.9975,
+        "probability": 0.9975
+      }
+    ]
+  }
+]
